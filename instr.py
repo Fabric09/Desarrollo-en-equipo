@@ -20,7 +20,7 @@ txt_hintage = "0"
 txt_test1 = 'Acuéstese y tome su pulso durante 15 segundos. Haga clic en el botón "Iniciar primera prueba" para iniciar el temporizador.\nEscriba el resultado en el campo adecuado.'
 txt_test2 = 'Realice 30 sentadillas durante 45 segundos. Para hacer esto, haga clic en el botón "Empezar a hacer sentadillas"\npara iniciar el contador de sentadillas.'
 
-txt_test3 = 'Acuéstese y tome su pulso los primeros 15 segundos del minuto, luego durante los últimos 15 segundos del minuto.\nPresione el botón "Iniciar prueba final" para iniciar al temporizador.\nLos segundos que deberían medirse se indican en verde y los segundos que no deben medirse se indican en negro. Escriba los resultados en los campos adecuados'.
+txt_test3 = 'Acuéstese y tome su pulso los primeros 15 segundos del minuto, luego durante los últimos 15 segundos del minuto.\nPresione el botón "Iniciar prueba final" para iniciar al temporizador.\nLos segundos que deberían medirse se indican en verde y los segundos que no deben medirse se indican en negro. Escriba los resultados en los campos adecuados.'
 txt_sendresults = 'Enviar los resultados'
 txt_hinttest1 = '0'
 txt_hinttest2 = '0'
@@ -35,3 +35,9 @@ txt_age = 'Años completos:'
 txt_finalwin = 'Resultados'
 txt_index = 'Índice de Ruffier: '
 txt_workheart = 'Rendimiento cardíaco: '
+
+txt_res1 = 'bajo. ¡Acuda al médico de inmediato!'
+txt_res2 = 'satisfactorio. ¡Vea a su médico!'
+txt_res3 = 'promedio. Puede valer la pena ver a su médico para que lo revise.'
+txt_res4 = 'por encima del promedio'
+txt_res5 = 'alto'
